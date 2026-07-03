@@ -1,0 +1,7 @@
+What is Python?|programming language
+What is AI?|artificial intelligence
+What is CPU?|central processing unit
+What is RAM?|random access memory
+What is HTML?|hyper text markup language
+What is Operating System?|system software
+What is Internet?|global network
