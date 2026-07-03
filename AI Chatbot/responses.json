@@ -1,0 +1,19 @@
+{
+    "hello": "Hi! How can I help you today?",
+    "hi": "Hello! Nice to meet you.",
+    "how are you": "I am doing great. Thanks for asking!",
+    "what is your name": "I am an AI Chatbot built using Python and Flask.",
+    "who created you": "I was created as part of a chatbot project.",
+    "what is machine learning": "Machine Learning is a branch of AI that allows systems to learn from data.",
+    "what is artificial intelligence": "Artificial Intelligence enables machines to perform tasks that normally require human intelligence.",
+    "what is python": "Python is a popular programming language known for its simplicity.",
+    "what is flask": "Flask is a lightweight Python web framework used for building web applications.",
+    "what is html": "HTML is used to create the structure of web pages.",
+    "what is css": "CSS is used to style and design web pages.",
+    "what is javascript": "JavaScript adds interactivity to web pages.",
+    "tell me a joke": "Why do programmers prefer dark mode? Because light attracts bugs!",
+    "thank you": "You're welcome! Happy to help.",
+    "good morning": "Good morning! Hope you have a productive day.",
+    "good evening": "Good evening! How can I assist you?",
+    "bye": "Goodbye! Have a great day."
+}
