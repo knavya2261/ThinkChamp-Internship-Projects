@@ -1,0 +1,13 @@
+AI HEALTH SYMPTOM CHECKER REPORT
+========================================
+
+Symptoms Entered
+Fever      : Yes
+Cough      : Yes
+Headache   : No
+Body Pain  : Yes
+
+Predicted Disease : Flu
+
+Suggestion:
+Drink plenty of water and take proper rest.

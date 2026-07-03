@@ -1,0 +1,11 @@
+Fever,Cough,Headache,BodyPain,Disease
+1,1,1,1,Flu
+1,1,0,0,Cold
+0,1,1,0,Sinus
+1,0,1,1,Dengue
+0,0,1,0,Migraine
+1,1,1,0,Viral Fever
+0,1,0,0,Allergy
+1,0,0,1,Typhoid
+0,0,0,1,Muscle Pain
+1,1,0,1,COVID-19
